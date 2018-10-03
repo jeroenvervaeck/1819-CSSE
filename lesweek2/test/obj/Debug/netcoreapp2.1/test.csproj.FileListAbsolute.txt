@@ -1,0 +1,11 @@
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/lesweek2/test/obj/Debug/netcoreapp2.1/test.pdb
