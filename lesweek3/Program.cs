@@ -17,6 +17,8 @@ namespace lesweek3
                 //int c = 4;
                 int a = 10;
                 int b = 5;
+
+
                 
                 int resultaat1 = optellen(a, b);
                 int resultaat2 = deling(a, b);
@@ -40,6 +42,8 @@ namespace lesweek3
         {
             return a/b;
         }
+
+
 
 
 

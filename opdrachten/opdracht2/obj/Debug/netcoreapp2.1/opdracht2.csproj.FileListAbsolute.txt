@@ -1,0 +1,11 @@
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.deps.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.runtimeconfig.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.runtimeconfig.dev.json
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.dll
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/bin/Debug/netcoreapp2.1/opdracht2.pdb
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.csprojAssemblyReference.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.csproj.CoreCompileInputs.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.AssemblyInfoInputs.cache
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.AssemblyInfo.cs
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.dll
+/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/Debug/netcoreapp2.1/opdracht2.pdb
