@@ -19,7 +19,7 @@ namespace opdracht2
 
             for (int i_fac = 0; i_fac < n_fac; i_fac++)  
             {  
-                Console.WriteLine( faculteit(i_fac) +" ");  
+                Console.Write( faculteit(i_fac) +" ");  
             } 
           
             Console.Write("\n");
