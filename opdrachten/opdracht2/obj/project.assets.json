@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/opdracht2.csproj",
+      "projectUniqueName": "/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht2/opdracht2.csproj",
       "projectName": "opdracht2",
-      "projectPath": "/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/opdracht2.csproj",
+      "projectPath": "/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht2/opdracht2.csproj",
       "packagesPath": "/Users/jeroenvervaeck/.nuget/packages/",
-      "outputPath": "/Users/jeroenvervaeck/code/gdmgent-1819-csse1/opdrachten/opdracht2/obj/",
+      "outputPath": "/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
