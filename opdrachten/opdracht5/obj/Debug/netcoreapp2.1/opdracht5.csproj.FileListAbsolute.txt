@@ -1,0 +1,11 @@
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.csprojAssemblyReference.cache
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.csproj.CoreCompileInputs.cache
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.AssemblyInfoInputs.cache
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.AssemblyInfo.cs
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/bin/Debug/netcoreapp2.1/opdracht5.deps.json
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/bin/Debug/netcoreapp2.1/opdracht5.runtimeconfig.json
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/bin/Debug/netcoreapp2.1/opdracht5.runtimeconfig.dev.json
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/bin/Debug/netcoreapp2.1/opdracht5.dll
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/bin/Debug/netcoreapp2.1/opdracht5.pdb
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.dll
+/Users/jeroenvervaeck/Desktop/CSSE/csse1/gdmgent-1819-csse1/opdrachten/opdracht5/obj/Debug/netcoreapp2.1/opdracht5.pdb
