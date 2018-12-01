@@ -39,7 +39,7 @@ class Book{
 
     //printing methode
     public void print(){
-        Console.WriteLine(this.name + this.author.getName() + this.price + this.qtyInStock);
+        Console.WriteLine("naam van het boek = " + this.name + ", Auteur = " + this.author.getName() + ", Het kost EUR " + this.price + ", en er zijn " + this.qtyInStock + " in stock.");
     }
 
 }
