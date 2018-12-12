@@ -44,9 +44,10 @@ namespace deel2
         public override string GenereerWachtwoord(){
             return "Persoon - wachtwoord";
         }
-        public new int GenereerWachtwoord(){
-            return 2;
-        }
+        
+        //public new int GenereerWachtwoord(){
+        //    return 2;
+        //}
 
         public override string ToString(){
             return "waarde van object persoon";

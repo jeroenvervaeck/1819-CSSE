@@ -16,8 +16,8 @@ namespace deel2
        }
 
        //methodes
-       public override string GenereerWachtwoord(){
-           return "Docent - wachtwoord";
-       }
+       //public override int GenereerWachtwoord(){
+       //    return "Docent - wachtwoord";
+       //}
     }
 }
